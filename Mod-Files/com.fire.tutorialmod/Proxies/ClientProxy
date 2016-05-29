@@ -1,0 +1,5 @@
+package com.fire.tutorialmod.Proxies;
+
+public class ClientProxy extends CommonProxy {
+
+}
