@@ -1,6 +1,6 @@
 package com.fire.tutorialmod.Init;
 
-import com.fire.tutorialmod.Items.itemTest.itemTest;
+import com.fire.tutorialmod.Items.itemTest;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.creativetab.CreativeTabs;
