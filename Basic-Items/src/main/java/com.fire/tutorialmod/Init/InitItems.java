@@ -13,7 +13,7 @@ public class InitItems {
 	public static Item itemTest;
 
 	public static void init(){
-		itemTest = new itemTest("itemTest").setCreativeTab(CreativeTabs.tabMisc);
+		itemTest = new itemTest("itemTest").setCreativeTab(CreativeTabs.MISC);
 		register();
 	}
 	
