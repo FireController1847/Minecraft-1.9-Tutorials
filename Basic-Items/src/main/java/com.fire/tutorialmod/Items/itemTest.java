@@ -1,6 +1,6 @@
 package com.fire.tutorialmod.Items;
 
-import com.fire.testmod.Strings;
+import com.fire.tutorialmod.Strings;
 
 import net.minecraft.item.Item;
 
