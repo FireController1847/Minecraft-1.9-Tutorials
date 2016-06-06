@@ -1,0 +1,4 @@
+# This is your block texture
+
+# Recommeneded Dimentions: 16x16, 32x32, 64x64, and at most 128x128. Anything above will cause slow computers to lag, depending on the amount of items.
+# Do not have any blank space around your block texture as of right now. We have no covered transparent blocks yet.
